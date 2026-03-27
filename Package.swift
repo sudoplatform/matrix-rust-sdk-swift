@@ -4,8 +4,8 @@
 
 import PackageDescription
 
-let checksum = "045dd2ba372f8229e7f6900151f27c8a35833683e79f1c8e8cdc19d9db8817a8"
-let version = "0.14.1-anonyome-5"
+let checksum = "55a434b9b0f01d9504257414f50093b972c793409e3d48b5bd9a6567e20da242"
+let version = "0.14.1-anonyome-6"
 let url = "https://github.com/sudoplatform/matrix-rust-sdk-swift/releases/download/\(version)/MatrixRustSDK.xcframework.zip"
 let package = Package(
     name: "MatrixRustSDK",
